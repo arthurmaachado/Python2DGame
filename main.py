@@ -4,6 +4,7 @@
 #Caso possua alguma dúvida sobre meu projeto pode me contactar
 
 #Diferenca
+print(1+1)
 
 #importe de bibliotecas usadas no código:
 import random
