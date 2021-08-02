@@ -3,6 +3,8 @@
 #Para melhorar meu código utilizei inúmeros sites e fóruns tais como Reddit, StackOverflow e Github
 #Caso possua alguma dúvida sobre meu projeto pode me contactar
 
+#Diferenca
+
 #importe de bibliotecas usadas no código:
 import random
 import sys
@@ -577,7 +579,6 @@ class Bullet(pygame.sprite.Sprite):
         self.rect.x -= self.speedy * self.lado
         if self.rect.bottom < 0:
             self.kill()
-
 
 
 
