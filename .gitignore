@@ -1,0 +1,16 @@
+db.sqlite3
+__pycache__
+node_modules
+package-lock.json
+frontend/package-lock.json
+.serverless
+.env
+/venv/
+/env/
+/frontend/.vscode
+/frontend/yarn.lock
+.idea/
+.env
+backend/.vscode/settings.json
+.vscode/
+
